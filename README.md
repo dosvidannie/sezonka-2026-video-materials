@@ -1,12 +1,13 @@
-# сезонка 2026 — материалы к лекции Оли
+# Soft Power 2026 — материалы для монтажа
 
-[открыть страницу скачивания](https://github.com/dosvidannie/sezonka-2026-video-materials/releases/tag/v1.0)
+Вводная лекция Оли. Финальный комплект для монтажа и сверки.
 
-| материал | что внутри |
+| Скачать | Что внутри |
 |---|---|
-| [HTML-превью](https://github.com/dosvidannie/sezonka-2026-video-materials/releases/download/v1.0/sezonka-preview.html) | 10 анимаций с таймкодами и репликами. Скачайте файл и откройте в браузере. |
-| [MP4 со звуком Оли](https://github.com/dosvidannie/sezonka-2026-video-materials/releases/download/v1.0/sezonka-olia-preview.mp4) | Короткий монтаж всех 10 сцен, 1:31. |
-| [ZIP со вставками 1080p](https://github.com/dosvidannie/sezonka-2026-video-materials/releases/download/v1.0/sezonka-overlays-1080p.zip) | 10 отдельных MOV ProRes 4444 с прозрачностью, 1920 × 1080, 30 кадров/с, плюс монтажный лист. |
-| [Монтажный лист](https://github.com/dosvidannie/sezonka-2026-video-materials/releases/download/v1.0/montazhny-list.md) | Точные таймкоды и комментарии для Влады. |
+| [Прозрачные анимации и накладки (ZIP)](https://github.com/dosvidannie/sezonka-2026-video-materials/releases/download/v2.0/soft-power-overlays-1080p.zip) | 10 вставок, логотип #sekta и прогресс-бар 0–100%. Видео в MOV ProRes 4444, 1920×1080, 30 кадров/с. |
+| [Монтажный лист (PDF)](https://github.com/dosvidannie/sezonka-2026-video-materials/releases/download/v2.0/soft-power-montage-sheet.pdf) | Таймкоды, названия файлов и порядок дорожек. |
+| [Полная лекция с голосом Оли (MP4)](https://github.com/dosvidannie/sezonka-2026-video-materials/releases/download/v2.0/soft-power-final-lecture.mp4) | Согласованный монтаж, 7:37, 1080p, 30 кадров/с. |
 
-рабочая версия. галочки взять из материалов личного кабинета, трекер при необходимости адаптировать под визуал сезона, материалы про питание дополнить по готовности.
+Материалы про питание появляются на 02:46.000–02:51.000.
+
+[Финальный релиз v2.0](https://github.com/dosvidannie/sezonka-2026-video-materials/releases/tag/v2.0) · [Архив рабочей версии v1.0](https://github.com/dosvidannie/sezonka-2026-video-materials/releases/tag/v1.0)
